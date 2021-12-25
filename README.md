@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anastasiia
-- 👀 I’m learning web programming
-- 🌱 I’m currently learning HTML, CSS, JS, React
+- 👀 I realy love web programming
 - 📫 You can reach me trinitydev@mail.ru
 
 <!---
