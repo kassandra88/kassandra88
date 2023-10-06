@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anastasiia
-- 👀 I'm a React web developer with over 5 years of experience. Programming is my passion. I'm always striving to create innovative and 
+- 👀 I'm a React web developer with 6 years of experience. Programming is my passion. I'm always striving to create innovative and 
 unconventional solutions while staying updated on modern development approaches.
 - 📫 You can reach me trinitydev@mail.ru
 
